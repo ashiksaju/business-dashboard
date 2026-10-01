@@ -82,3 +82,6 @@ Dashboard: http://localhost:5173
 - A bulk insert partly ran and created duplicates. I truncated the table and reloaded it once.
 - Many OpenStreetMap entries have no phone or full address, so those fields are NULL or marked "Address not available".
 - Google Maps and Justdial could not be scraped within their terms of service, so I used OpenStreetMap plus labelled sample data.
+
+## Demo video
+link:- https://drive.google.com/drive/folders/1ieT0Cy9cGP1H_jlrezJ3iG4CvcL2-QiK?usp=sharing
